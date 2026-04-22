@@ -1,0 +1,6 @@
+{
+  "name": "台灣股市警示與處置資訊監控",
+  "description": "即時追蹤 TWSE 公布處置有價證券、注意交易資訊，以及 TPEx 上櫃公布注意累計次數異常資訊。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
